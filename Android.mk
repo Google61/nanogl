@@ -31,5 +31,5 @@ LOCAL_SRC_FILES := \
 
 LOCAL_LDLIBS := -llog
 
-include $(BUILD_STATIC_LIBRARY)
+include $(BUILD_SHARED_LIBRARY)
 
